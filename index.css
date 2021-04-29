@@ -1,0 +1,12 @@
+body {
+  background-color: #efefef;
+}
+
+div {
+  position: absolute;
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  background-color: white;
+  box-shadow: 0 6px 6px 0 gray;
+}
